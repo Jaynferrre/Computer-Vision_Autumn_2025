@@ -59,13 +59,6 @@ The project extends beyond basic implementation to include optimization and anal
 * **Feature Visualization:** Visual inspection of convolutional filter weights to interpret feature extraction mechanisms.
 * **Error Analysis:** Visualization of misclassified images to diagnose model weaknesses.
 
-## Usage Instructions
-
-1.  Ensure a Python environment is configured with the necessary dependencies.
-2.  Open the notebooks (`24B2176_CV_Assignment_1.ipynb` or `24B2176_CV_Assignment_2.ipynb`) in Jupyter Notebook or Google Colab.
-3.  Execute the cells sequentially. It is highly recommended to set the hardware accelerator to GPU if available to ensure efficient training times.
-4.  The output cells will display training loss graphs, accuracy metrics, and confusion matrices.
-
 ## Metrics
 
 The models are evaluated based on the following key performance indicators:
