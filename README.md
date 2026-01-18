@@ -70,4 +70,4 @@ The models are evaluated based on the following key performance indicators:
 
 ## Acknowledgments
 
-This project was developed as part of a comprehensive curriculum covering PyTorch fundamentals, Neural Networks, Transfer Learning, and Object Detection - (developed by Analytics Club, IIT Bombay)[https://www.notion.so/Computer-Vision-CV-28fbe6f34ef980f8a1b0f5d15f401838]
+This project was developed as part of a comprehensive curriculum covering PyTorch fundamentals, Neural Networks, Transfer Learning, and Object Detection - [developed by Analytics Club, IIT Bombay](https://www.notion.so/Computer-Vision-CV-28fbe6f34ef980f8a1b0f5d15f401838)
