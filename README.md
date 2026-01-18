@@ -77,4 +77,4 @@ The models are evaluated based on the following key performance indicators:
 
 ## Acknowledgments
 
-This project was developed as part of a comprehensive curriculum covering PyTorch fundamentals, Neural Networks, Transfer Learning, and Object Detection.
+This project was developed as part of a comprehensive curriculum covering PyTorch fundamentals, Neural Networks, Transfer Learning, and Object Detection - developed by Analytics Club, IIT Bombay
